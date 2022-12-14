@@ -1,5 +1,3 @@
-/* eslint-disable prettier/prettier */
-
 import { IsNotEmpty, IsUUID, Length } from "class-validator";
 
 export class CreateNotificationBody {
